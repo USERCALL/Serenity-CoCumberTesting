@@ -1,4 +1,4 @@
-package runners;
+package co.com.choucair.certifications.proyectbase;
 
 
 import cucumber.api.CucumberOptions;
